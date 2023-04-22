@@ -50,7 +50,7 @@ height = "390px"
   align = "right"
 
   overlay_color = "#000000"  # An HTML color value.
-  overlay_img = "headers/sensors_2023.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "headers/sensors_2023_2.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
   
 [[item]]
